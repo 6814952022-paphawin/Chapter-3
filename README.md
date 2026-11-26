@@ -45,5 +45,6 @@ Chapter 1 chat-app
 <img width="1273" height="579" alt="สกรีนช็อต 2026-11-26 092843" src="https://github.com/user-attachments/assets/419ad009-537f-429b-b87c-eb17ed91b825" />
 
 Chapter 2 socket
-<img width="1917" height="322" alt="สกรีนช็อต 2026-11-26 095221" src="https://github.com/user-attachments/assets/c1667486-8e3a-4077-be24-33902ee85e47" />
+<img width="1918" height="993" alt="สกรีนช็อต 2026-11-26 101212" src="https://github.com/user-attachments/assets/a9279da1-b3c8-4f0b-87b3-a055813a6d58" />
+
 
