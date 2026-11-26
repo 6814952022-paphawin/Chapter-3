@@ -27,3 +27,13 @@ services:
       - server
     stdin_open: true
     tty: true
+
+  client3:
+    build:
+      context: .
+      dockerfile: Dockerfile.client
+    container_name: chat_client3
+    depends_on:
+      - server
+    stdin_open: true
+    tty: true
