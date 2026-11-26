@@ -39,3 +39,11 @@ docker exec -it chat_client1 python client.py
 ```bash
 docker exec -it chat_client2 python client.py
 ```
+
+Chapter 1 chat-app
+<img width="1270" height="576" alt="สกรีนช็อต 2026-11-26 092825" src="https://github.com/user-attachments/assets/317ab482-5e31-4453-acbf-a7a7175691e4" />
+<img width="1273" height="579" alt="สกรีนช็อต 2026-11-26 092843" src="https://github.com/user-attachments/assets/419ad009-537f-429b-b87c-eb17ed91b825" />
+
+Chapter 2 socket
+<img width="1917" height="322" alt="สกรีนช็อต 2026-11-26 095221" src="https://github.com/user-attachments/assets/c1667486-8e3a-4077-be24-33902ee85e47" />
+
